@@ -58,7 +58,9 @@
 14) Оформляем отчет  
 15) Получаем историю операций в форматированном виде и сохраняем изменения  
   Для этого вводим команду git log --pretty=medium --abbrev-commit  
-  ![]()  
+  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/15.1.png)  
+  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/15.2.png) 
+  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/15.3.png) 
 16) Отправляем локальные изменения в сетевое хранилище GitHub  
   Для этого вводим команду git push  
 ## Вывод:  
