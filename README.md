@@ -14,14 +14,13 @@
 5) Клонируем свой личный удалённый репозиторий на компьютер.  
    для этого вводим команду (перед этим перейдя в католог, где будет репозиторий):  
    git clone <ссылкаНаРепозиторий>  
-   ![]()  
+   ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/clone.png)  
 6) Добавляем файл через интерфейс GitHub. Подтягиваем изменения в локальный репозиторий.  
   Для подтягивания изменений в локальный репозиторий вводим команду:  
   git pull  
   ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0.png)  
   ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%84%D0%B0%D0%B9%D0%BB.png)  
-  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%84%D0%B0%D0%B9%D0%BB%20%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D0%BB%D1%81%D1%8F.png)  
-  ![]()  
+  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%84%D0%B0%D0%B9%D0%BB%20%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D0%BB%D1%81%D1%8F.png)   
 7) Получаем историю операций для каждой из веток.  
   Для этого вводим команду:  
   git log  
