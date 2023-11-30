@@ -10,4 +10,4 @@
   для этого вводим команды:  
   git config user.name "<имя>"  
   git config user.email "<почта>"  
-  ![](https://github.com/Lusss09/LR6/blob/master/Screenshots/имяипочта.jpg)  
+  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/%D0%B8%D0%BC%D1%8F%20%D0%B8%20%D0%BF%D0%BE%D1%87%D1%82%D0%B0.png) 
