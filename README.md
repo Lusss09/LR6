@@ -57,10 +57,8 @@
   ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%82%D0%BA%D0%B8%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0.png)  
 14) Оформляем отчет  
 15) Получаем историю операций в форматированном виде и сохраняем изменения  
-  Для этого вводим команду git log --pretty=medium --abbrev-commit  
-  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/15.1.png)  
-  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/15.2.png) 
-  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/15.3.png) 
+  Для этого вводим команду git log --pretty=format: "%h - %ad | %an | %s"  
+  ![](https://github.com/Lusss09/LR6/blob/Report/Screenshots/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B9.png)  
 16) Отправляем локальные изменения в сетевое хранилище GitHub  
   Для этого вводим команду git push  
 17) Лог команд:
